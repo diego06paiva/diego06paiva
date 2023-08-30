@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @diego06paiva
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Diego Moura
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on  setores de T.I
 - 📫 How to reach me  pode me mandar um email: Diegompaiva06@gmail.com
 
