@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego Moura
-- 👀 I’m interested in Javascript
+- 👀 I’m interested in Javascript, Typescript, Linux, Docker
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on  setores de T.I
 - 📫 How to reach me  pode me mandar um email: Diegompaiva06@gmail.com
